@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TallyLink Studio</string>
+    <string name="accessibility_service_label">TallyLink Remote Touch</string>
+    <string name="accessibility_service_description">Allows the USB-connected Director phone to perform tap, swipe, and Back/Home/Recents gestures on this screen during an active TallyLink Studio broadcast session. You can pause remote control anytime from the Host Console.</string>
+    <string name="notification_channel_name">Studio Live Session</string>
+    <string name="notification_channel_desc">Keeps low-latency USB screen and audio streaming active while you broadcast or game.</string>
+    <string name="notification_host_title">TallyLink Studio — ON AIR (Host)</string>
+    <string name="notification_host_text">Streaming screen &amp; mixed audio over USB. Tap to return to console.</string>
+    <string name="notification_director_title">TallyLink Studio — Director Deck</string>
+    <string name="notification_director_text">Receiving live USB stream &amp; audio monitor.</string>
+    <string name="notification_action_stop">Stop Session</string>
+    <string name="notification_action_lock_touch">Lock Touch</string>
+    <string name="notification_action_unlock_touch">Unlock Touch</string>
+</resources>

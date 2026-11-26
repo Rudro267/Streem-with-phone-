@@ -1,0 +1,6 @@
+{
+  "name": "TallyLink Studio",
+  "description": "Low-latency USB dual-phone screen sharing, mixed internal & mic audio streaming, remote touch control, and real-time YouTube streamer collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
